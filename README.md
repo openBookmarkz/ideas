@@ -18,7 +18,7 @@
 
 # Submission Template
 
-Kindly utilize this [template]() as a reference for the submission of your idea.
+Kindly utilize this [template](https://github.com/openBookmarkz/ideas/tree/main/ideaTemplate) as a reference for the submission of your idea.
 
 # Submitting Your Contribution
 
