@@ -27,4 +27,4 @@ Provide a detailed description of your idea. Include the problem statement and h
 
 ## Non-Technical (if applicable):
 
-Provide additional non-technical details relevant to your idea, such as market analysis, user demographics, or any other non-technical considerations.
+Provide additional non-technical details relevant to your ideas, such as market analysis, user demographics, or any other non-technical considerations.
