@@ -1,5 +1,7 @@
 <div align='center'>
+
 ![openBookmarkz logo](https://github.com/openBookmarkz/.github/blob/main/profile/logo+name.png?raw=true)
+
 </div>
 
 # Contributing Guidelines
