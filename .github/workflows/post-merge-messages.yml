@@ -1,0 +1,17 @@
+name: idea Post-Merge Messages
+on:
+  pull_request_target:
+    types: [closed]
+  issues:
+    types: [closed]
+
+jobs:
+    welcome:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v1
+              with:
+                github-token: ${{ secrets.GITHUB_TOKEN }}
+                pr-message: '<h2>Woo-hoo! 🎉 Your PR is officially merged!</h1><br>Thanks a bunch for being part of the openBookmarkz crew. 🚀 We look forward to seeing you again, and best of luck on your open-source and entrepreneurial adventure! 🌟'
+                
+        
