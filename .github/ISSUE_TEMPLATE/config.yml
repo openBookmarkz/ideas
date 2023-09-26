@@ -3,4 +3,8 @@ contact_links:
   - name: Contributing Guidelines
     url: https://github.com/openBookmarkz/ideas/blob/main/.github/ISSUE_TEMPLATE/bug_report.md
     about: If you ever want to report an issue, just check out this handy issue template!
+  - name: idea bug report
+    url: https://github.com/openBookmarkz/ideas/issues/new
+    about: Create a report to help us improve the ideas repository.
+
  
