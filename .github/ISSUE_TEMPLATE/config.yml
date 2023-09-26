@@ -1,6 +1,6 @@
 blank_issues_enabled: false
 contact_links:
   - name: Contributing Guidelines
-    url: https://github.com/openBookmarkz/ideas#readme
-    about: Our organization offers a platform for users to submit innovative startup concepts, which can be further developed through open-source collaboration.
+    url: https://github.com/openBookmarkz/ideas/blob/main/.github/ISSUE_TEMPLATE/bug_report.md
+    about: If you ever want to report an issue, just check out this handy issue template!
  
