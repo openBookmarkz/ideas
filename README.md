@@ -1,6 +1,6 @@
 <div align='center'>
 
-![openBookmarkz logo](.github/logo+name.png)
+![openBookmarkz logo](https://raw.githubusercontent.com/openBookmarkz/ideas/main/.github/logo+name.png)
 
 </div>
 
