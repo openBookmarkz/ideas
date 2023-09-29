@@ -6,5 +6,8 @@ contact_links:
   - name: Idea bug report
     url: https://github.com/openBookmarkz/ideas/issues/new
     about: Create a report to help us improve the ideas repository.
+  - name: forked Idea bug report
+    url: https://github.com/ATREAY/ideas_fork/issues/new
+    about: Create an issue in the forked repo.
 
  
