@@ -31,11 +31,11 @@ In a rapidly evolving world, our financial systems must adapt to meet the needs 
 6. **Enhancing the Potential of Blockchain:** Blockchain technology has the potential to revolutionize the way we handle financial transactions, contracts, and identity verification. A decentralized banking system provides a clear and practical use case for blockchain technology, offering a robust structure and purpose beyond cryptocurrencies.
 
 
-## Technical (if applicable):
+## Technical:
 
 No technical work is done yet by me, but I am sure this idea motivates me as well as the reader to learn more about technology and build.
 
-## Non-Technical (if applicable):
+## Non-Technical:
 
 This proposal seeks to initiate a global conversation and collaborative effort to develop a decentralized banking system that addresses the shortcomings of centralization while promoting financial inclusion, security, and empowerment for individuals worldwide. By embracing the principles of decentralization and blockchain technology, we can create a financial system that is more resilient, accessible, and aligned with the needs and values of the 21st century (Web 3.0 and Blockchain Technology for instance). 
 
