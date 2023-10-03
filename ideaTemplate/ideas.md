@@ -1,6 +1,6 @@
 ## Author Details
 
-- **Name of the author:** E S Sahal Hussain
+- **Name of the author:** E S SAHAL HUSSAIN
 - **Twitter / LinkedIn :** https://www.linkedin.com/in/sahalhes/
 - **GitHub Link:** https://github.com/sahalhes
 - **Email:** sahaldevelop@gmail.com
@@ -9,7 +9,7 @@
 
 - **Title:** Decentralization of Banks
 - **Category:** 
-    - Block Chain Technology
+    - Blockchain Technology
 
 ## Description:
 
