@@ -1,19 +1,24 @@
 ## Author Details
 
-- **Name of the author: E S SAHAL HUSSAIN**
-- **Twitter / LinkedIn : https://www.linkedin.com/in/sahalhes/**
-- **GitHub Link: https://github.com/sahalhes**
-- **Email: sahaldevelop@gmail.com**
+- **Name of the author:** E S Sahal Hussain
+- **Twitter / LinkedIn :** https://www.linkedin.com/in/sahalhes/
+- **GitHub Link:** https://github.com/sahalhes
+- **Email:** sahaldevelop@gmail.com
 
 ## Idea Details
 
-- **Title: DECENTRALIZATION OF BANKS**
+- **Title:** Decentralization of Banks
 - **Category:** 
-    - Future Finance System 
+    - Block Chain Technology
 
 ## Description:
 
 In a rapidly evolving world, our financial systems must adapt to meet the needs of an increasingly global and digitally connected population. The existing centralized banking system (that too only within a country often), while efficient in many ways, is not without its limitations. This proposal advocates for the creation of a decentralized banking system to address the shortcomings of centralization and empower individuals with greater control over their wealth.
+
+How is it different from the existing decentralized finance systems?
+
+
+My idea is to develop a decentralized finance system that tackles the current issues in Deacentralized Finance system. This system will prioritize security by conducting thorough smart contract audits, address scalability challenges through advanced layer 2 solutions, collaborate with regulators for compliance, offer user-friendly interfaces, and implement transparent, decentralized governance models. This approach aims to overcome the existing problems in the DeFi space and promote financial inclusivity.
 
 ### Reasons for the Proposal:
 
@@ -39,9 +44,8 @@ No technical work is done yet by me, but I am sure this idea motivates me as wel
 
 This proposal seeks to initiate a global conversation and collaborative effort to develop a decentralized banking system that addresses the shortcomings of centralization while promoting financial inclusion, security, and empowerment for individuals worldwide. By embracing the principles of decentralization and blockchain technology, we can create a financial system that is more resilient, accessible, and aligned with the needs and values of the 21st century (Web 3.0 and Blockchain Technology for instance). 
 
-Together, we can shape the future of finance for the better.
 
-Additiional Note from Author:
+Additional Note from Author:
 I hope I was able to convey my idea. If anybody is interested to help build this idea in any way kindly reach me out.
 GitHub Link of Author : https://github.com/sahalhes
 
